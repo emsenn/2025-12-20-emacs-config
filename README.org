@@ -1,4 +1,12 @@
 #+title: emsenn's emacs stuff
+
+* Status
+This repository is deprecated as an Emacs configuration surface.
+
+The consolidated, canonical configuration module is now: =library/semiotic-emacs=.
+
+This repository remains as an archival snapshot of an older literate configuration.
+
 * Procedures
   :PROPERTIES:
   :header-args: :noweb yes :padline yes :mkdirp yes
